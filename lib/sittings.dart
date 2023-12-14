@@ -239,8 +239,9 @@ class _SittingsState extends State<Sittings> {
                 child: Center(child: Text('Log out',style: TextStyle(fontWeight: FontWeight.bold),))),
         )
         ],
-      )
-      ,
+      ),
+      ////////////////////////////////////////////
+      
     );
   }
 }

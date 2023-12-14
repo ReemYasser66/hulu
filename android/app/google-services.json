@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766207795297",
+    "project_id": "hulu-f3050",
+    "storage_bucket": "hulu-f3050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766207795297:android:caab28fe3c4e475dcb0a20",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqZaAfHYQQ0RNmcYFVQDdnPTdI9JohXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

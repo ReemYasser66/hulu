@@ -240,8 +240,6 @@ class _SittingsState extends State<Sittings> {
         )
         ],
       ),
-      ////////////////////////////////////////////
-      
     );
   }
 }
